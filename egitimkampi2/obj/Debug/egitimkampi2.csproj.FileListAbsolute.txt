@@ -1,0 +1,7 @@
+C:\Users\Kiraz\source\repos\egitimkampi1\egitimkampi2\bin\Debug\egitimkampi2.exe.config
+C:\Users\Kiraz\source\repos\egitimkampi1\egitimkampi2\bin\Debug\egitimkampi2.exe
+C:\Users\Kiraz\source\repos\egitimkampi1\egitimkampi2\bin\Debug\egitimkampi2.pdb
+C:\Users\Kiraz\source\repos\egitimkampi1\egitimkampi2\obj\Debug\egitimkampi2.csproj.AssemblyReference.cache
+C:\Users\Kiraz\source\repos\egitimkampi1\egitimkampi2\obj\Debug\egitimkampi2.csproj.CoreCompileInputs.cache
+C:\Users\Kiraz\source\repos\egitimkampi1\egitimkampi2\obj\Debug\egitimkampi2.exe
+C:\Users\Kiraz\source\repos\egitimkampi1\egitimkampi2\obj\Debug\egitimkampi2.pdb
